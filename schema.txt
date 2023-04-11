@@ -1,0 +1,10 @@
+{
+  "login":true,
+  "user":{
+    "userName":"tester",
+    "userRole":"ESS",
+    "status":"Enabled",
+    "employeeName":"tester tester",
+    "employeeId":"4"
+  }
+}

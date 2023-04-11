@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://apihrm.cilsy.id/symfony/web/index.php'</initValue>
+      <name>baseUrlCilsy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'d64f06860631c63caec605496aac2580bba1b166'</initValue>
+      <name>Token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>employeeId</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
